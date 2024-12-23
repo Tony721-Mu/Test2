@@ -1,0 +1,41 @@
+.one,.two,.three{
+    background-color: #ddd;
+    margin: 30px;
+    padding:50px;
+    display: inline-block;
+}
+.one{
+    outline: black solid 5px;
+    border: red solid 5px;
+}
+.two{
+    outline: black solid 5px;
+    border-color: blue green ;
+    border-style: solid ;
+    border-width: 5px;
+}
+.three{
+    outline: black solid 5px;
+    border-width:   5px;
+    border-style:dashed;
+    border-color: red green blue yellow;
+}
+.element{
+    background-color: #ddd;
+    width: 400px;
+    padding: 20px;
+    margin: 15px;
+    outline: solid  #ddd 5px;
+}
+.element-1 {
+  border-left: solid  red 6px;  
+}
+.element-2 {
+   
+visibility: hidden;
+}
+.element-3{
+
+
+    border-left: solid #009688 6px;
+}
